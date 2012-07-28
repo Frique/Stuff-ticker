@@ -1,4 +1,4 @@
 Stuff-ticker
 ============
 
-jQuery plugin
+A very un-ready jQuery plugin.
