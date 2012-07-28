@@ -1,0 +1,4 @@
+Stuff-ticker
+============
+
+jQuery plugin
